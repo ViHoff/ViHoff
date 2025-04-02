@@ -1,9 +1,12 @@
 # 💫About Me :
-I'm working on learning web development, having previous experience in Java and Git, and I'm currently diving into Machine Learning and Artificial Intelligence. Always eager to learn and explore new technologies, I love building innovative projects and solving complex problems.
+🌐 I'm working on learning web development, having previous experience in Java and Git, and I'm currently diving into Machine Learning and Artificial Intelligence. Always eager to learn and explore new technologies, I love building innovative projects and solving complex problems.
 
 Languages: Java, JavaScript, Python
 Web Development: HTML, CSS,
 Version Control: Git, GitHub
+
+My favorite hobbies are photography and piano (classic)!
+📷🎹
 
 
 ## 🌐Socials
