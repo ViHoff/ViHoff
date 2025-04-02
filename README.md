@@ -5,7 +5,7 @@ Languages: Java, JavaScript, Python
 Web Development: HTML, CSS,
 Version Control: Git, GitHub
 
-My favorite hobbies are photography and piano (classic)!
+My favorite hobbies are photography and piano (classical)!
 📷🎹
 
 
