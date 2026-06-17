@@ -19,8 +19,5 @@ My favorite hobbies are photography and piano (classical)!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViHoff&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViHoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Meme that represents my whole life:
-<img src="https://devhumor.com/content/uploads/images/January2025/debugging.jpeg" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ViHoff&icon=0&color=0)](https://visitcount.itsvg.in)
